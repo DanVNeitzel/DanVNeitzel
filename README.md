@@ -4,9 +4,6 @@
 	<p>📚 I graduated in Internet Systems at the National Commercial Learning Service (SENAC).</p>
 	<img width="300px" src="bg-two-r.png">
 	<p>🚀 I am in constant learning. Interested in new technologies and market news.</p>
-	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanVNeitzel&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&layout=compact" />
-	</p>
 	<hr>
 	<p align="center">
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
