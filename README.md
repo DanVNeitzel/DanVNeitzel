@@ -7,11 +7,6 @@
 	<p align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanVNeitzel&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&layout=compact" />
 	</p>
-	<p align="center">
-		![](https://github-readme-stats.vercel.app/api?username=DanVNeitzel&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanVNeitzel&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanVNeitzel&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	</p>
 	<hr>
 	<p align="center">
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
