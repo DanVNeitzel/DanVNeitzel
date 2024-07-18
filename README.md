@@ -5,10 +5,12 @@
 	<img width="300px" src="bg-two-r.png">
 	<p>🚀 I am in constant learning. Interested in new technologies and market news.</p>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielvNeitzel&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&layout=compact" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanVNeitzel&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&layout=compact" />
 	</p>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=DanielvNeitzel&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&hide=stars,issues" />
+		![](https://github-readme-stats.vercel.app/api?username=DanVNeitzel&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DanVNeitzel&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanVNeitzel&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	</p>
 	<hr>
 	<p align="center">
@@ -38,13 +40,13 @@
 	<div>
 		<p align="center">Contacts:</p> 
 		<p align="center">
-			<a href="https://www.instagram.com/danielvneitzel/" target="_blank">
+			<a href="https://www.instagram.com/danielvneitzel/?hl=pt-br" target="_blank">
 				<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 			</a>
 			<a href = "mailto:daniel_neitzel@hotmail.com">
 				<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 			</a>
-			<a href="https://www.linkedin.com/in/danielneitzel/" target="_blank">
+			<a href="https://www.linkedin.com/in/danielneitzelvieira/" target="_blank">
 				<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 			</a>
 		</p>  
