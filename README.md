@@ -6,10 +6,11 @@
 <p>🚀 I am in constant learning. Interested in new technologies and market news.</p>
 
 <div align="center">
-	<a href="https://github.com/YuttyAkiko">
-		<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=DanVNeitzel&show_icons=true&theme=tokyonight" />
-		<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanVNeitzel&layout=compact&langs_count=7&theme=tokyonight" />
-	</a>
+	<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanVNeitzel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanVNeitzel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DanVNeitzel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 </div>
 <hr>
 <p align="center">
